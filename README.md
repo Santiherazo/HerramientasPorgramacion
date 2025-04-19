@@ -170,7 +170,13 @@ class Program {
 
 ## Video
 
-[Link](https://drive.google.com/file/d/1Yc6vU3Hvp2sN5RG2INeAONJwhPqkAD0H/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1R_l3mBVZJ_v85uyTU48aNCSx6gomeqZP/view?usp=sharing)
+
+### Análisis
+
+Al concluir esta unidad, valoro el fortalecimiento de mis habilidades en programación estructurada y el dominio de herramientas esenciales como Visual Studio. Si bien ya contaba con conocimientos previos en temas como arreglos, interfaces de consola y POO (Programación Orientada a Objetos), esta unidad me permitió profundizar en aspectos clave, consolidar bases fundamentales y descubrir técnicas prácticas que ampliaron mi perspectiva.
+
+---
 
 ## Referencias
 
