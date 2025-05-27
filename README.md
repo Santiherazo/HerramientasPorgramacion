@@ -178,6 +178,44 @@ Al concluir esta unidad, valoro el fortalecimiento de mis habilidades en program
 
 ---
 
+# Creación de aplicaciones de Window Forms en C#
+
+La aplicación desarrollada en la actividad "TIA 2. Tarea: Proyecto Final" consiste en un sistema de gestión para una biblioteca escolar, el cual permite registrar, consultar, prestar y devolver libros, así como administrar usuarios y aplicar sanciones por retrasos en la entrega. El objetivo principal es automatizar y controlar el préstamo de libros, restringiendo el acceso a nuevos préstamos en caso de que el usuario tenga multas activas por entregas tardías.
+
+La estructura central del sistema incluye:
+
+Usuarios iniciales y libros precargados, que pueden ser gestionados desde el sistema.
+
+Gestión de usuarios y libros, con funciones para agregar, editar, eliminar y consultar.
+
+Préstamos: un libro solo puede ser prestado si existen ejemplares disponibles.
+
+Multas automáticas: si un usuario entrega un libro después de la fecha límite del préstamo, se le genera una multa.
+
+Restricción de acceso: los usuarios con multas no pueden volver a realizar préstamos hasta saldar sus sanciones.
+
+El sistema fue desarrollado utilizando Windows Forms, una tecnología de desarrollo de interfaces gráficas en C#. A continuación, se detallan los elementos principales de Windows Forms utilizados:
+
+Formularios (Form): cada ventana del sistema representa una sección de la aplicación, como el formulario de inicio de sesión, el panel principal del usuario o del administrador, y los formularios para agregar libros o usuarios.
+
+TextBox: utilizados para la entrada de datos como nombre de usuario, contraseña, información del libro o datos personales del usuario.
+
+Label: se usan para identificar los campos de entrada y proporcionar instrucciones al usuario.
+
+Button: permiten ejecutar acciones como iniciar sesión, registrar un nuevo usuario, guardar un libro o realizar un préstamo.
+
+DataGridView: utilizado para mostrar listas de libros, usuarios, préstamos y multas en forma de tabla.
+
+ComboBox: desplegables usados para seleccionar roles de usuario, géneros de libros o filtros.
+
+DateTimePicker: se emplea para seleccionar fechas como la de adquisición del libro, fecha de nacimiento del usuario o fecha de devolución esperada.
+
+MessageBox: se muestra al usuario para confirmar acciones, advertencias o errores (por ejemplo, si un usuario intenta prestar un libro estando multado).
+
+Esta aplicación permite no solo el aprendizaje práctico de la programación orientada a objetos en C#, sino también la comprensión de estructuras de datos simples como arreglos y listas, y la lógica necesaria para simular un flujo real de préstamos bibliotecarios con restricciones y controles básicos.
+
+---
+
 ## Referencias
 
 - Microsoft. (2025, 30 de enero). Introducción al IDE de Visual Studio. Microsoft Learn. https://learn.microsoft.com/es-es/visualstudio/get-started/visual-studio-ide?view=vs-2022
