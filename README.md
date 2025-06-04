@@ -216,7 +216,7 @@ Esta aplicación permite no solo el aprendizaje práctico de la programación or
 
 ### Mapa conceptual
 
-![Mapa](https://gofile.io/d/PASD4m](https://store9.gofile.io/download/web/729b6809-547f-488a-b71b-edd274b22fe3/ChatGPT%20Image%204%20jun%202025%2C%2010_12_04.png)](https://sdmntprwestus3.oaiusercontent.com/files/00000000-d89c-61fd-a666-fa435ccfe07e/raw?se=2025-06-04T16%3A11%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=3eaeaa1e-4279-5828-beec-18f6d15ffd8e&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-04T12%3A26%3A09Z&ske=2025-06-05T12%3A26%3A09Z&sks=b&skv=2024-08-04&sig=ELAShNjl/Edxbiud8XGl%2B/y9IxhWy%2B2Ig8M5QruvFPY%3D))
+![Mapa](https://sdmntprwestus3.oaiusercontent.com/files/00000000-d89c-61fd-a666-fa435ccfe07e/raw?se=2025-06-04T16%3A11%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=3eaeaa1e-4279-5828-beec-18f6d15ffd8e&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-04T12%3A26%3A09Z&ske=2025-06-05T12%3A26%3A09Z&sks=b&skv=2024-08-04&sig=ELAShNjl/Edxbiud8XGl%2B/y9IxhWy%2B2Ig8M5QruvFPY%3D)
 
 ---
 
