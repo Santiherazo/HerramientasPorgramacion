@@ -216,13 +216,13 @@ Esta aplicación permite no solo el aprendizaje práctico de la programación or
 
 ### Mapa conceptual
 
-![Mapa](https://gofile.io/d/PASD4m)
+![Mapa]([https://gofile.io/d/PASD4m](https://store9.gofile.io/download/web/729b6809-547f-488a-b71b-edd274b22fe3/ChatGPT%20Image%204%20jun%202025%2C%2010_12_04.png))
 
 ---
 
 ## Video
 
-[Link]()
+[Link](https://drive.google.com/drive/folders/1znYN_pyMVsX1naM2A4Vfbwt8hLfPRL8B?usp=sharing)
 ---
 
 ## Referencias
