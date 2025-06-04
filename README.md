@@ -214,8 +214,15 @@ MessageBox: se muestra al usuario para confirmar acciones, advertencias o errore
 
 Esta aplicación permite no solo el aprendizaje práctico de la programación orientada a objetos en C#, sino también la comprensión de estructuras de datos simples como arreglos y listas, y la lógica necesaria para simular un flujo real de préstamos bibliotecarios con restricciones y controles básicos.
 
+### Mapa conceptual
+
+![Mapa](https://gofile.io/d/PASD4m)
+
 ---
-![visual studio](https://i.imgur.com/f1Ge9LH.png)
+
+## Video
+
+[Link]()
 ---
 
 ## Referencias
