@@ -222,7 +222,7 @@ Esta aplicación permite no solo el aprendizaje práctico de la programación or
 
 ## Video
 
-[Link](https://drive.google.com/drive/folders/1znYN_pyMVsX1naM2A4Vfbwt8hLfPRL8B?usp=sharing)
+[Link](https://drive.google.com/file/d/1OllJ6E9QYxAO3ZZOS5cWBvYbHaYbSOIQ/view?usp=sharing)
 ---
 
 ## Referencias
